@@ -1,0 +1,46 @@
+typography_spectrum: 0.7896147593922249
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.8757477287021419
+  lightness: 0.7593475887413589
+  saturation: 0.18436776768333177
+  rhythmicContrast: 0.645506402167427
+  brandColors:
+    - '#000000'
+    - '#433B3D'
+    - '#FFFBF0'
+    - '#BBC1E3'
+    - '#6988B2'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/5752198f-3405-4c5f-bc25-162f14ad1494.jpg
+layout_spectrum: 0.36749451884686357
+author:
+  name: Todd Goodman
+  email: todd@tgarts.com
+  url: tgarts.com
+name: Todd Goodman Arts
+navigation:
+  - name: California Seascapes
+    id: cf6afc00-a79c-486f-a265-ff4b40aa56e9
+    type: content
+  - name: Family Portraits
+    id: 04dd0587-cac1-4397-8e6e-0572c7be7065
+    type: content
+  - name: 'Paris, France'
+    id: 56354465-7ae1-4e6a-9f82-a4630b88327e
+    type: content
+title: Todd Goodman Arts
+content: []
+description: >-
+  All work on display is original artwork and photography created by Todd
+  Goodman. Have fun while you're here!
+purpose:
+  - type: contact
+    url: 'tel:518.469.2603'
+    label: Call 518.469.2603
+  - type: contact
+    url: 'mailto:todd@tgarts.com'
+    label: Email todd@tgarts.com
