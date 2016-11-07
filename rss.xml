@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Todd Goodman Arts]]></title>
+        <description><![CDATA[Todd Goodman Arts]]></description>
+        <link>https://thegrid.ai/tgarts/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Nov 2016 06:37:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tgarts/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 07 Nov 2016 06:37:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[Sunset Service]]></title>
+            <description><![CDATA[<article><h1>Sunset Service</h1><p>California Seascapes</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f33d629-3941-416c-9f22-3d7ad8684c07.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tgarts/sunset-service/index.html</link>
+            <guid isPermaLink="false">cf6afc00-a79c-486f-a265-ff4b40aa56e9</guid>
+            <pubDate>Sun, 06 Nov 2016 23:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris, France]]></title>
+            <description><![CDATA[<article><h1>Paris, France</h1><p>June, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e54786b1-e61a-416d-9a19-c2ea7ed234d7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tgarts/paris-france/index.html</link>
+            <guid isPermaLink="false">56354465-7ae1-4e6a-9f82-a4630b88327e</guid>
+            <pubDate>Mon, 07 Nov 2016 06:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family Portraits]]></title>
+            <description><![CDATA[<article><h1>Family Portraits</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d289d2f-eb1c-47c9-82d0-ef00ade37830.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tgarts/family-portraits/index.html</link>
+            <guid isPermaLink="false">04dd0587-cac1-4397-8e6e-0572c7be7065</guid>
+            <pubDate>Sun, 06 Nov 2016 23:14:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
