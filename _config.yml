@@ -1,22 +1,22 @@
-typography_spectrum: 0.7896147593922249
+layout_spectrum: 0.07392058215537432
+typography_spectrum: 0.288555181315261
+color:
+  brandStrength: 0.057115079518776424
+  lightness: 0.5937205654961785
+  saturation: 0.16904770359848764
+  rhythmicContrast: 0.9166642419845419
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.8757477287021419
-  lightness: 0.7593475887413589
-  saturation: 0.18436776768333177
-  rhythmicContrast: 0.645506402167427
-  brandColors:
-    - '#000000'
-    - '#433B3D'
-    - '#FFFBF0'
-    - '#BBC1E3'
-    - '#6988B2'
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/5752198f-3405-4c5f-bc25-162f14ad1494.jpg
-layout_spectrum: 0.36749451884686357
 author:
   name: Todd Goodman
   email: todd@tgarts.com
